@@ -31,6 +31,6 @@
 
 14. The retention policy in terms on number of days that the archive files will be stored is configurable in the windows.conf directory
 
-15. To kill ITearlyWarning, close the command prompt window running ITEarlyWarning.bat
+15. To kill ITEarlyyWarning, close the command prompt window running ITEarlyWarning.bat
 
 
