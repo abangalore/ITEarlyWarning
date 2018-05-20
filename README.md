@@ -1,6 +1,6 @@
 # ITEarlyWarning Instructons
-1. Download and Install Active Perl 5.24.3 from https://www.activestate.com/activeperl/downloads <HR>    
-         - Choose Typical Install option
+1. Download and Install Active Perl 5.24.3 from https://www.activestate.com/activeperl/downloads   
+   - Choose Typical Install option
   
 2. Download ITEarlyWarning.zip from https://github.com/abangalore/ITEarlyWarning and save it on local computer</LI>
 
