@@ -23,7 +23,7 @@
    
 10. In the Cmd prompt window type cd C:\ITEarlyWarning
 
-11. Once in C:\ITEarlyWarning  type ITEarlyEarning  (This is a .bat file)
+11. Once in C:\ITEarlyWarning  type ITEarlyWarning  (This is a .bat file)
 
 12. This kicks of a batch file that will initialize and cotinously monitor the directories specified in the windows.conf directory. Every  5 minutes a file be stored with any possible changes in the C:\ITEarlyWarning\archive directory. 
 
