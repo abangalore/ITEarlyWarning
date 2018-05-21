@@ -6,12 +6,12 @@
 
 3. Unzip and Extract ITEarlyWarning.zip under C:\
 
-4. Make sure all of the files are under C:\ITEarlyWarning dirctory
+4. Make sure all of the files are under C:\ITEarlyWarning directory
 
 5. Open notepad as Administrator
    - To open any program as Administrator in windows right click on the application and choose the option to "Run as Administrator"
 
-6. Open windows.conf unser C:\ITEarlyWarning in notepad
+6. Open windows.conf located in C:\ITEarlyWarning in notepad
 
 7. Add directories to be monitored at the end of the file
     e.g C:\Desigo all - This will scan all directories and sub directories associated with the Desigo server
@@ -31,6 +31,6 @@
 
 14. The retention policy in terms on number of days that the archive files will be stored is configurable in the windows.conf directory
 
-15. To kill ITEarlyyWarning, close the command prompt window running ITEarlyWarning.bat
+15. To kill ITEarlyWarning, close the command prompt window running ITEarlyWarning.bat
 
 
