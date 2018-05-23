@@ -25,7 +25,7 @@
 
 11. Once in C:\ITEarlyWarning  type ITEarlyWarning  (This is a .bat file)
 
-12. This kicks of a batch file that will initialize and cotinously monitor the directories specified in the windows.conf directory. Every  5 minutes a file be stored with any possible changes in the C:\ITEarlyWarning\archive directory. 
+12. This kicks off a batch file that will initialize and continously monitor the directories specified in the windows.conf directory. Every  5 minutes a file be stored with any possible changes in the C:\ITEarlyWarning\archive directory. 
 
 13. Open the archive files using notepad.
 
